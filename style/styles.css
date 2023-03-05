@@ -545,3 +545,7 @@ font-family: 'Raleway', sans-serif;
     padding: 8px 14px;
     border-radius: 100px;
 }
+
+.navbar{
+    background-color: white;
+}
