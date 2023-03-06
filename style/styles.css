@@ -556,19 +556,18 @@ font-family: 'Raleway', sans-serif;
 width: 30%; height: auto; display: block; margin: auto;
 }
 
-@media (max-width:1020px){
-    .finalimg{
-        width: 20% !important;
-    }
-}
 
 @media (max-width:900px){
     .finalimg{
         width: 10% !important;
     }
+
+
+ 
 }
 
 .listgroupimg{
     border-radius: 50%;
     display:inline-block;
 }
+
