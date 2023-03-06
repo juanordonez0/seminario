@@ -553,7 +553,7 @@ font-family: 'Raleway', sans-serif;
 }
 
 .finalimg{
-width: 40%; height: auto; display: block; margin: auto;
+width: 30%; height: auto; display: block; margin: auto;
 }
 
 @media (max-width:1020px){
@@ -566,4 +566,9 @@ width: 40%; height: auto; display: block; margin: auto;
     .finalimg{
         width: 10% !important;
     }
+}
+
+.listgroupimg{
+    border-radius: 50%;
+    display:inline-block;
 }
